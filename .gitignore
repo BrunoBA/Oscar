@@ -1,0 +1,4 @@
+/vendor
+.DS_Store
+./.phan
+index.php

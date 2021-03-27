@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "Best Picture",
+    "nominated": [
+      "The Father",
+      "Judas and the Black Messiah",
+      "Mank",
+      "Minari",
+      "Nomadland",
+      "Promising Young Woman",
+      "Sound of Metal",
+      "The Trial of the Chicago 7"
+    ],
+    "winner": null
+  },
+  {
+    "id": 2,
+    "name": "Best Actress in a Leading Role",
+    "nominated": [
+      "Viola Davis,\u00a0Ma Rainey's Black Bottom",
+      "Andra Day,\u00a0The United States vs. Billie Holiday",
+      "Vanessa Kirby,\u00a0Pieces of a Woman",
+      "Frances McDormand,\u00a0Nomadland",
+      "Carey Mulligan,\u00a0Promising Young Woman"
+    ],
+    "winner": null
+  },
+  {
+    "id": 3,
+    "name": "Best Actress in a Supporting Role",
+    "nominated": [
+      "Maria Bakalova,\u00a0Borat Subsequent Moviefilm",
+      "Glenn Close,\u00a0Hillbilly Elegy",
+      "Olivia Colman,\u00a0The Father",
+      "Amanda Seyfried,\u00a0Mank",
+      "Yuh-Jung Youn,\u00a0Minari"
+    ],
+    "winner": null
+  },
+  {
+    "id": 4,
+    "name": "Best Actor in a Leading Role",
+    "nominated": [
+      "Riz Ahmed,\u00a0Sound of Metal",
+      "Chadwick Boseman,\u00a0Ma Rainey's Black Bottom",
+      "Anthony Hopkins,\u00a0The Father",
+      "Gary Oldman,\u00a0Mank",
+      "Steven Yeun,\u00a0Minari"
+    ],
+    "winner": null
+  },
+  {
+    "id": 5,
+    "name": "Best Actor in a Supporting Role",
+    "nominated": [
+      "Sacha Baron Cohen,\u00a0The Trial of the Chicago 7",
+      "Daniel Kaluuya,\u00a0Judas and the Black Messiah",
+      "Leslie Odom Jr.,\u00a0One Night in Miami",
+      "Paul Raci,\u00a0Sound of Metal",
+      "LaKeith Stanfield,\u00a0Judas and the Black Messiah"
+    ],
+    "winner": null
+  },
+  {
+    "id": 6,
+    "name": "Best Director",
+    "nominated": [
+      "Thomas Vinterberg,\u00a0Another Round",
+      "Emerald Fennell,\u00a0Promising Young Woman",
+      "David Fincher,\u00a0Mank",
+      "Lee Isaac Chung,\u00a0Minari",
+      "Chlo\u00e9 Zhao,\u00a0Nomadland"
+    ],
+    "winner": null
+  },
+  {
+    "id": 7,
+    "name": "Best Costume Design",
+    "nominated": [
+      "Emma",
+      "Mank",
+      "Ma Rainey's Black Bottom",
+      "Mulan",
+      "Pinocchio"
+    ],
+    "winner": null
+  },
+  {
+    "id": 8,
+    "name": "Best Original Score",
+    "nominated": [
+      "Da 5 Bloods",
+      "Mank",
+      "Minari",
+      "News of the World",
+      "Soul"
+    ],
+    "winner": null
+  },
+  {
+    "id": 9,
+    "name": "Best Adapted Screenplay",
+    "nominated": [
+      "Borat Subsequent Moviefilm\u00a0(Peter Baynham, Sacha Baron Cohen, Jena Friedman, Anthony Hines, Lee Kern, Dan Mazer, Erica Rivinoja and Dan Swimer)",
+      "The Father\u00a0(Christopher Hampton and Florian Zeller)",
+      "Nomadland\u00a0(Chlo\u00e9 Zhao)",
+      "One Night in Miami\u00a0(Kemp Powers)",
+      "The White Tiger\u00a0(Ramin Bahrani)"
+    ],
+    "winner": null
+  },
+  {
+    "id": 10,
+    "name": "Best Original Screenplay",
+    "nominated": [
+      "Judas and the Black Messiah\u00a0(Will Berson, Shaka King, Keith Lucas and Kenny Lucas)",
+      "Minari\u00a0(Lee Isaac Chung)",
+      "Promising Young Woman\u00a0(Emerald Fennell)",
+      "Sound of Metal\u00a0(Derek Cianfrance, Abraham Marder and Darius Marder)",
+      "The Trial of the Chicago 7\u00a0(Aaron Sorkin)"
+    ],
+    "winner": null
+  },
+  {
+    "id": 11,
+    "name": "Best Animated Short Film",
+    "nominated": [
+      "Burrow",
+      "Genius Loci",
+      "If Anything Happens I Love You",
+      "Opera",
+      "Yes-People"
+    ],
+    "winner": null
+  },
+  {
+    "id": 12,
+    "name": "Best Live-Action Short Film",
+    "nominated": [
+      "Feeling Through",
+      "The Letter Room",
+      "The Present",
+      "Two Distant Strangers",
+      "White Eye"
+    ],
+    "winner": null
+  },
+  {
+    "id": 13,
+    "name": "Best Documentary Feature",
+    "nominated": [
+      "Collective (Collectiv)",
+      "Crip Camp",
+      "The Mole Agent (El Agente Topo)",
+      "My Octopus Teacher",
+      "Time"
+    ],
+    "winner": null
+  },
+  {
+    "id": 14,
+    "name": "Best Documentary Short Subject",
+    "nominated": [
+      "Colette",
+      "A Concerto Is a Conversation",
+      "Do Not Split",
+      "Hunger Ward",
+      "A Love Song for Latasha"
+    ],
+    "winner": null
+  },
+  {
+    "id": 15,
+    "name": "Best International Feature Film",
+    "nominated": [
+      "Another Round\u00a0(Druk), Denmark",
+      "Better Days (Shaonian de Ni),\u00a0Hong Kong",
+      "Collective\u00a0(Collectiv), Romania",
+      "The Man Who Sold His Skin,\u00a0Tunisia",
+      "Quo Vadis, Aida?,\u00a0Bosnia and Herzegovina"
+    ],
+    "winner": null
+  },
+  {
+    "id": 16,
+    "name": "Best Sound",
+    "nominated": [
+      "Greyhound",
+      "Mank",
+      "News of the World",
+      "Sound of Metal",
+      "Soul"
+    ],
+    "winner": null
+  },
+  {
+    "id": 17,
+    "name": "Best Production Design",
+    "nominated": [
+      "The Father",
+      "Ma Rainey's Black Bottom",
+      "Mank",
+      "News of the World",
+      "Tenet"
+    ],
+    "winner": null
+  },
+  {
+    "id": 18,
+    "name": "Best Film Editing",
+    "nominated": [
+      "The Father",
+      "Nomadland",
+      "Promising Young Woman",
+      "Sound of Metal",
+      "The Trial of the Chicago 7"
+    ],
+    "winner": null
+  },
+  {
+    "id": 19,
+    "name": "Best Cinematography",
+    "nominated": [
+      "Judas and the Black Messiah",
+      "Mank",
+      "News of the World",
+      "Nomadland",
+      "The Trial of the Chicago 7"
+    ],
+    "winner": null
+  },
+  {
+    "id": 20,
+    "name": "Best Visual Effects",
+    "nominated": [
+      "Love and Monsters",
+      "The Midnight Sky",
+      "Mulan",
+      "The One and Only Ivan",
+      "Tenet"
+    ],
+    "winner": null
+  },
+  {
+    "id": 21,
+    "name": "Best Animated Feature Film",
+    "nominated": [
+      "Onward",
+      "Over the Moon",
+      "A Shaun the Sheep Movie: Farmageddon",
+      "Soul",
+      "Wolfwalkers"
+    ],
+    "winner": null
+  },
+  {
+    "id": 22,
+    "name": "Best Makeup and Hairstyling",
+    "nominated": [
+      "Emma",
+      "Hillbilly Elegy",
+      "Ma Rainey's Black Bottom",
+      "Mank",
+      "Pinocchio"
+    ],
+    "winner": null
+  },
+  {
+    "id": 23,
+    "name": "Best Original Song",
+    "nominated": [
+      "'Husavik' from\u00a0Eurovision Song Contest: The Story of Fire Saga",
+      "'Fight For You' from\u00a0Judas and the Black Messiah",
+      "'Io S\u00ec (Seen)' from\u00a0The Life Ahead (La Vita Davanti a S\u00e9)",
+      "'Speak Now' from\u00a0One Night in Miami",
+      "'Hear My Voice' from\u00a0The Trial of the Chicago 7"
+    ],
+    "winner": null
+  }
+]
