@@ -21,7 +21,7 @@
   },
   "description": "The Oscar nominated for 2021",
   "license": "MIT",
-  "name": "brunoba/oscar2021",
+  "name": "brunoba/oscar",
   "require": {
     "php": ">=8.0.3"
   },
