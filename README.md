@@ -2,7 +2,7 @@
 # Get Started
 
 ```php
-use Oscar;
+use Oscar\Oscar;
 
 $oscar = new Oscar;
 $categories = $oscar->getCategories();

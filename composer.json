@@ -12,9 +12,6 @@
       "Oscar\\": "src/",
       "Oscar\\Tests\\": "tests/"
     },
-    "classmap": [
-      "./Oscar.php"
-    ],
     "files": [
       "./functions.php"
     ]
