@@ -2,3 +2,4 @@
 .DS_Store
 ./.phan
 index.php
+makefile
