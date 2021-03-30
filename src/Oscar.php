@@ -37,8 +37,21 @@ class Oscar implements JsonSerializable
         return $this->categories;
     }
 
-    public function jsonSerialize()
+    public function jsonSerialize(): array
+    {
+        return [
+            'categories' => $this->categories,
+        ];
+    }
+
+    public function toJson(): string
     {
         return json_encode($this);
     }
+
+    public function toArray(): array
+    {
+        return json_decode($this->toJson(), true);
+    }
+
 }

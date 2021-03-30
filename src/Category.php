@@ -2,7 +2,9 @@
 
 namespace Oscar;
 
-class Category
+use JsonSerializable;
+
+class Category implements JsonSerializable
 {
     private int | null $winner = null;
     private Nominees $nominees;
@@ -52,5 +54,15 @@ class Category
     public function addNominees(string $nominated): void
     {
         $this->nominees->addNominee($nominated);
+    }
+
+    public function jsonSerialize(): array
+    {
+        return [
+            'winner' => $this->winner,
+            'nominees' => $this->nominees,
+            'name' => $this->name,
+            'id' => $this->id,
+        ];
     }
 }

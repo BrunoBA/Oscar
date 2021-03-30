@@ -20,7 +20,8 @@
   "license": "MIT",
   "name": "brunoba/oscar",
   "require": {
-    "php": ">=8.0.3"
+    "php": ">=8.0.3",
+    "symfony/serializer": "^5.2"
   },
   "scripts-descriptions": {
     "check": "Run all tests!"

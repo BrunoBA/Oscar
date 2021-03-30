@@ -2,7 +2,9 @@
 
 namespace Oscar;
 
-class Nominees
+use JsonSerializable;
+
+class Nominees implements JsonSerializable
 {
     public function __construct(
         private array $nominees = []
@@ -24,5 +26,10 @@ class Nominees
     public function count(): int
     {
         return count($this->nominees);
+    }
+
+    public function jsonSerialize(): array
+    {
+        return $this->nominees;
     }
 }
