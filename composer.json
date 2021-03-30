@@ -21,7 +21,8 @@
   "name": "brunoba/oscar",
   "require": {
     "php": ">=8.0.3",
-    "symfony/serializer": "^5.2"
+    "symfony/serializer": "^5.2",
+    "symfony/property-access": "^5.2"
   },
   "scripts-descriptions": {
     "check": "Run all tests!"
